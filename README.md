@@ -7,6 +7,6 @@ To run this app, open it in Android Studio and launch it in the emulator. You sh
 ## Usage
 First, enter your desired car make into the top search box. Then, if you wish to limit your searches by model year, enter a year in the bottom search box. Then hit the search button and watch as all your desired car models (sorted by name) are populated into the list view.
 ## Video
-[![VIDEO THUMBNAIL](https://img.youtube.com/vi/xuOaJOWO7Bc/0.jpg)](https://www.youtube.com/watch?v=xuOaJOWO7Bc)
+[![VIDEO THUMBNAIL](https://img.youtube.com/vi/xuOaJOWO7Bc/3.jpg)](https://www.youtube.com/watch?v=xuOaJOWO7Bc)
 
 
